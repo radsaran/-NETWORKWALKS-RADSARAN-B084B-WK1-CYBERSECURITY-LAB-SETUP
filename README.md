@@ -109,8 +109,6 @@ By completing this lab, I learned how to:
 - Oracle VirtualBox
 - Kali Linux
 - Linux Networking Commands
-- ICMP (Ping)
-- DNS Utilities
 
 ---
 
