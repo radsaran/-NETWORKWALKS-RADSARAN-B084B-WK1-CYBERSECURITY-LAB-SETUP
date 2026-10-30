@@ -12,7 +12,7 @@ Since Kali Linux was already installed on my system, the main objective was to c
 ## Lab Environment
 
 ### Host Machine
-- Windows 10
+- Windows 11
 
 ### Virtualization Platform
 - Oracle VirtualBox
@@ -58,7 +58,7 @@ ip a
 Example output:
 
 ```text
-eth0: 10.0.0.x/24
+eth0: 10.0.0.2/24
 ```
 
 Routing information was checked with:
@@ -139,19 +139,6 @@ nslookup google.com
 ```
 
 Verify DNS functionality.
-
----
-
-## Kali Linux Update Verification
-
-Internet access was confirmed by updating package information:
-
-```bash
-sudo apt update
-```
-
-Successful repository access verified that the virtual machine had full Internet connectivity.
-
 ---
 
 ## Snapshot Creation
