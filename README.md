@@ -99,7 +99,6 @@ By completing this lab, I learned how to:
 - Configure a NAT Network in Oracle VirtualBox
 - Assign network adapters to virtual machines
 - Verify IP configuration using Linux networking tools
-- Test gateway, Internet, and DNS connectivity
 - Troubleshoot network connectivity issues
 - Create VirtualBox snapshots for system recovery
 
